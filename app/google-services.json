@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284952325944",
+    "project_id": "guess-who-87b0e",
+    "storage_bucket": "guess-who-87b0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284952325944:android:17e0ff70152ebacd559bcd",
+        "android_client_info": {
+          "package_name": "com.example.guesswho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMruJl1mXAb0oe0Zm0FF0VW0bqBZYbkEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

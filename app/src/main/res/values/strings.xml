@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">guess who</string>
+    <string name="create_room">Create room</string>
+    <string name="join_room">Join with code</string>
+</resources>
